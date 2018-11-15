@@ -10,7 +10,7 @@ cover.html
 .idea/
 .tmp/
 .mkdocs-virtual-env/
-vendor/
+
 examples/hotrod/hotrod
 examples/hotrod/hotrod-*
 cmd/all-in-one/all-in-one-*
